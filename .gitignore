@@ -1,0 +1,16 @@
+/.ipynb_checkpoints
+/.pytest_cache
+/.vscode
+/build
+/Untitled.ipynb
+/setup.py
+/modelos/galaxia_all_1.h5
+/modelos/mask_rcnn_coco.h5
+/MaskGalaxyLib/CFound/__pycache__
+/MaskGalaxyLib/ConvertRaDec/__pycache__
+/MaskGalaxyLib/DetectGalaxy/__pycache__
+/MaskGalaxyLib/ImageServer/__pycache__
+/MaskGalaxyLib/MaskDetection/__pycache__
+/MaskGalaxyLib/mrcnn/__pycache__
+/MaskGalaxyLib/util/__pycache__
+/MaskGalaxyLib/__pycache__

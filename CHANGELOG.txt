@@ -1,0 +1,11 @@
+CHANGE LOG
+==========
+
+0.0.1 (22/10/2020)
+------------------
+-Firts Release
+
+0.0.2 (22/10/2020)
+------------------
+- Fixes dependences
+- remove Models of the library
